@@ -14,5 +14,5 @@ The letter confirms my selection for the internship and serves as the official p
 - **Duration:** 3 Months
 
 ## Official Internship Letter
-...
-![Cyberster Internship Offer Letter](Internship_Letter.PNG)
+
+![Cyberster Internship Offer Letter](internship_letter.PNG)
