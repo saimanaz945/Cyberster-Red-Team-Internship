@@ -36,3 +36,4 @@
 - Task 4 – Live Host Validation
 
 More details, screenshots, outputs, and the report are available in this folder.
+[weekly Report](./WEEKLY-CYBERSTER-INTERNSHIP-REPORT.pdf)
