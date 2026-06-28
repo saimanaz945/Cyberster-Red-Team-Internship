@@ -15,4 +15,4 @@ The letter confirms my selection for the internship and serves as the official p
 
 ## Official Internship Letter
 ...
-![Cyberster Internship Offer Letter](Internship_letter.PNG)
+![Cyberster Internship Offer Letter](Internship_Letter.PNG)
