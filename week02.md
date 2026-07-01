@@ -47,4 +47,4 @@ During Week 02, I performed advanced network reconnaissance and vulnerability as
 - Mapped findings to CVE identifiers.
 - Practiced stealth scanning and firewall evasion techniques.
 - Improved practical penetration testing skills.
-- [weekly Report](./week2_cyberster_internship_report.pdf)
+- [weekly2 Report](./week2_cyberster_internship_report.pdf)
